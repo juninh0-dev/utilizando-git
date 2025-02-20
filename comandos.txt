@@ -9,3 +9,6 @@ git add .
 
 -> Salva uma versão dos arquivos
 git commit -m "Por que estou salvando???"
+
+-> Envia os commits para o github
+git push
