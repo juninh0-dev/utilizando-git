@@ -1,7 +1,7 @@
 -> Pra entrar no seu usuario git
 
-git config --global user.name "Gabriel Felipe Valentin"
-git config --global user.email gabriel.valentin@fatec.sp.gov.br
+git config --global user.name "Altair Preto de Godoi Junior"
+git config --global user.email altair.godoi@fatec.sp.gov.br
 
 -> inicializa um repositório git (utilizando apenas 1 vez)
 git init
